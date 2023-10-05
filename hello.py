@@ -1,0 +1,5 @@
+print('O JAMES, EU QUERO UNA SALADA DE FRUTA')
+print('  (._.) <(uhllalla quelle habilitade)' )
+print(' _/|_|\_ ')
+print('   / \   ')
+print('  _| |_  ')
